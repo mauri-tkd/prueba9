@@ -5,5 +5,10 @@
 <body>
 <h1>probando git</h1>
 <p>yo soy miguelo</p>
+<<<<<<< HEAD
+<p>y yo mauri</p>
+=======
+<p>lo cambio al mismo tiempo</p>
+>>>>>>> 9aaeb0eb5d023267e9e88bb1b702c74a57ea18e8
 </body>
 </html>
